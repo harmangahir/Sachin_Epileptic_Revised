@@ -1,0 +1,146 @@
+dataset,subject_id,n_recordings,n_seizure_recordings,seizure_presence_subject,seizure_burden_ratio,burden_bin,strata,file_path,class_label
+CHB-MIT,chb01,42,7,1,0.16666666666666666,1,1_1,,
+CHB-MIT,chb02,36,3,1,0.08333333333333333,0,1_0,,
+CHB-MIT,chb03,38,7,1,0.18421052631578946,1,1_1,,
+CHB-MIT,chb04,42,3,1,0.07142857142857142,0,1_0,,
+CHB-MIT,chb05,39,5,1,0.1282051282051282,0,1_0,,
+CHB-MIT,chb06,18,7,1,0.3888888888888889,2,1_2,,
+CHB-MIT,chb07,19,3,1,0.15789473684210525,1,1_1,,
+CHB-MIT,chb08,20,5,1,0.25,1,1_1,,
+CHB-MIT,chb09,19,3,1,0.15789473684210525,1,1_1,,
+CHB-MIT,chb10,25,7,1,0.28,2,1_2,,
+CHB-MIT,chb11,35,3,1,0.08571428571428572,0,1_0,,
+CHB-MIT,chb12,24,13,1,0.5416666666666666,2,1_2,,
+CHB-MIT,chb13,33,8,1,0.24242424242424243,1,1_1,,
+CHB-MIT,chb14,26,7,1,0.2692307692307692,2,1_2,,
+CHB-MIT,chb15,40,14,1,0.35,2,1_2,,
+CHB-MIT,chb16,19,6,1,0.3157894736842105,2,1_2,,
+CHB-MIT,chb17,21,3,1,0.14285714285714285,0,1_0,,
+CHB-MIT,chb18,36,6,1,0.16666666666666666,1,1_1,,
+CHB-MIT,chb19,30,3,1,0.1,0,1_0,,
+CHB-MIT,chb20,29,6,1,0.20689655172413793,1,1_1,,
+CHB-MIT,chb21,33,4,1,0.12121212121212122,0,1_0,,
+CHB-MIT,chb22,31,3,1,0.0967741935483871,0,1_0,,
+CHB-MIT,chb23,9,3,1,0.3333333333333333,2,1_2,,
+CHB-MIT,chb24,22,12,1,0.5454545454545454,2,1_2,,
+Turkish,1_epilepsy (1),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (1).mat,epilepsy
+Turkish,1_epilepsy (10),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (10).mat,epilepsy
+Turkish,1_epilepsy (11),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (11).mat,epilepsy
+Turkish,1_epilepsy (12),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (12).mat,epilepsy
+Turkish,1_epilepsy (13),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (13).mat,epilepsy
+Turkish,1_epilepsy (14),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (14).mat,epilepsy
+Turkish,1_epilepsy (15),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (15).mat,epilepsy
+Turkish,1_epilepsy (16),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (16).mat,epilepsy
+Turkish,1_epilepsy (17),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (17).mat,epilepsy
+Turkish,1_epilepsy (18),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (18).mat,epilepsy
+Turkish,1_epilepsy (19),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (19).mat,epilepsy
+Turkish,1_epilepsy (2),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (2).mat,epilepsy
+Turkish,1_epilepsy (20),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (20).mat,epilepsy
+Turkish,1_epilepsy (21),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (21).mat,epilepsy
+Turkish,1_epilepsy (22),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (22).mat,epilepsy
+Turkish,1_epilepsy (23),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (23).mat,epilepsy
+Turkish,1_epilepsy (24),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (24).mat,epilepsy
+Turkish,1_epilepsy (25),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (25).mat,epilepsy
+Turkish,1_epilepsy (26),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (26).mat,epilepsy
+Turkish,1_epilepsy (27),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (27).mat,epilepsy
+Turkish,1_epilepsy (28),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (28).mat,epilepsy
+Turkish,1_epilepsy (29),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (29).mat,epilepsy
+Turkish,1_epilepsy (3),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (3).mat,epilepsy
+Turkish,1_epilepsy (30),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (30).mat,epilepsy
+Turkish,1_epilepsy (31),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (31).mat,epilepsy
+Turkish,1_epilepsy (32),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (32).mat,epilepsy
+Turkish,1_epilepsy (33),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (33).mat,epilepsy
+Turkish,1_epilepsy (34),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (34).mat,epilepsy
+Turkish,1_epilepsy (35),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (35).mat,epilepsy
+Turkish,1_epilepsy (36),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (36).mat,epilepsy
+Turkish,1_epilepsy (37),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (37).mat,epilepsy
+Turkish,1_epilepsy (38),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (38).mat,epilepsy
+Turkish,1_epilepsy (39),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (39).mat,epilepsy
+Turkish,1_epilepsy (4),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (4).mat,epilepsy
+Turkish,1_epilepsy (40),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (40).mat,epilepsy
+Turkish,1_epilepsy (41),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (41).mat,epilepsy
+Turkish,1_epilepsy (42),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (42).mat,epilepsy
+Turkish,1_epilepsy (43),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (43).mat,epilepsy
+Turkish,1_epilepsy (44),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (44).mat,epilepsy
+Turkish,1_epilepsy (45),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (45).mat,epilepsy
+Turkish,1_epilepsy (46),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (46).mat,epilepsy
+Turkish,1_epilepsy (47),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (47).mat,epilepsy
+Turkish,1_epilepsy (48),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (48).mat,epilepsy
+Turkish,1_epilepsy (49),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (49).mat,epilepsy
+Turkish,1_epilepsy (5),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (5).mat,epilepsy
+Turkish,1_epilepsy (50),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (50).mat,epilepsy
+Turkish,1_epilepsy (6),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (6).mat,epilepsy
+Turkish,1_epilepsy (7),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (7).mat,epilepsy
+Turkish,1_epilepsy (8),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (8).mat,epilepsy
+Turkish,1_epilepsy (9),1,1,1,1.0,1,1_1,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/epilepsy/1_epilepsy (9).mat,epilepsy
+Turkish,2_normal (1),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (1).mat,normal
+Turkish,2_normal (10),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (10).mat,normal
+Turkish,2_normal (11),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (11).mat,normal
+Turkish,2_normal (12),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (12).mat,normal
+Turkish,2_normal (13),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (13).mat,normal
+Turkish,2_normal (14),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (14).mat,normal
+Turkish,2_normal (15),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (15).mat,normal
+Turkish,2_normal (16),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (16).mat,normal
+Turkish,2_normal (17),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (17).mat,normal
+Turkish,2_normal (18),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (18).mat,normal
+Turkish,2_normal (19),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (19).mat,normal
+Turkish,2_normal (2),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (2).mat,normal
+Turkish,2_normal (20),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (20).mat,normal
+Turkish,2_normal (21),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (21).mat,normal
+Turkish,2_normal (22),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (22).mat,normal
+Turkish,2_normal (23),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (23).mat,normal
+Turkish,2_normal (24),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (24).mat,normal
+Turkish,2_normal (25),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (25).mat,normal
+Turkish,2_normal (26),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (26).mat,normal
+Turkish,2_normal (27),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (27).mat,normal
+Turkish,2_normal (28),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (28).mat,normal
+Turkish,2_normal (29),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (29).mat,normal
+Turkish,2_normal (3),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (3).mat,normal
+Turkish,2_normal (30),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (30).mat,normal
+Turkish,2_normal (31),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (31).mat,normal
+Turkish,2_normal (32),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (32).mat,normal
+Turkish,2_normal (33),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (33).mat,normal
+Turkish,2_normal (34),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (34).mat,normal
+Turkish,2_normal (35),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (35).mat,normal
+Turkish,2_normal (36),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (36).mat,normal
+Turkish,2_normal (37),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (37).mat,normal
+Turkish,2_normal (38),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (38).mat,normal
+Turkish,2_normal (39),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (39).mat,normal
+Turkish,2_normal (4),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (4).mat,normal
+Turkish,2_normal (40),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (40).mat,normal
+Turkish,2_normal (41),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (41).mat,normal
+Turkish,2_normal (42),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (42).mat,normal
+Turkish,2_normal (43),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (43).mat,normal
+Turkish,2_normal (44),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (44).mat,normal
+Turkish,2_normal (45),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (45).mat,normal
+Turkish,2_normal (46),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (46).mat,normal
+Turkish,2_normal (47),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (47).mat,normal
+Turkish,2_normal (48),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (48).mat,normal
+Turkish,2_normal (49),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (49).mat,normal
+Turkish,2_normal (5),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (5).mat,normal
+Turkish,2_normal (50),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (50).mat,normal
+Turkish,2_normal (51),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (51).mat,normal
+Turkish,2_normal (52),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (52).mat,normal
+Turkish,2_normal (53),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (53).mat,normal
+Turkish,2_normal (54),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (54).mat,normal
+Turkish,2_normal (55),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (55).mat,normal
+Turkish,2_normal (56),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (56).mat,normal
+Turkish,2_normal (57),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (57).mat,normal
+Turkish,2_normal (58),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (58).mat,normal
+Turkish,2_normal (59),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (59).mat,normal
+Turkish,2_normal (6),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (6).mat,normal
+Turkish,2_normal (60),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (60).mat,normal
+Turkish,2_normal (61),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (61).mat,normal
+Turkish,2_normal (62),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (62).mat,normal
+Turkish,2_normal (63),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (63).mat,normal
+Turkish,2_normal (64),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (64).mat,normal
+Turkish,2_normal (65),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (65).mat,normal
+Turkish,2_normal (66),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (66).mat,normal
+Turkish,2_normal (67),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (67).mat,normal
+Turkish,2_normal (68),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (68).mat,normal
+Turkish,2_normal (69),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (69).mat,normal
+Turkish,2_normal (7),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (7).mat,normal
+Turkish,2_normal (70),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (70).mat,normal
+Turkish,2_normal (71),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (71).mat,normal
+Turkish,2_normal (8),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (8).mat,normal
+Turkish,2_normal (9),1,0,0,0.0,0,0_0,/home/harman/projects/Sachin_Epilepsy_Revised/data/raw/turkish/normal/2_Normal (9).mat,normal
