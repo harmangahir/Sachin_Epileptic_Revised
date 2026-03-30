@@ -1,0 +1,3 @@
+dataset,n_subjects_or_cases,n_primary_signal_files,annotation_or_aux_files,primary_format,class_structure
+CHB-MIT,25,686,141,.edf,subject folders
+Turkish,121,121,0,.mat,"epilepsy, normal"
