@@ -1,0 +1,35 @@
+{
+  "model_name": "FA-CNNViT",
+  "random_seed": 42,
+  "window_samples": 1024,
+  "n_channels_chbmit": 18,
+  "n_channels_turkish": 35,
+  "freq_filters": 32,
+  "multi_scale_kernels": [
+    7,
+    15,
+    31
+  ],
+  "representation_dropout": 0.1,
+  "cnn_filters_1": 32,
+  "cnn_filters_2": 64,
+  "cnn_kernel_1": [
+    3,
+    7
+  ],
+  "cnn_kernel_2": [
+    3,
+    5
+  ],
+  "cnn_dropout": 0.2,
+  "patch_size": 16,
+  "embed_dim": 128,
+  "num_heads": 4,
+  "transformer_depth": 2,
+  "mlp_dim": 256,
+  "vit_dropout": 0.1,
+  "fusion_dim": 128,
+  "fusion_dropout": 0.25,
+  "classifier_hidden_dim": 128,
+  "classifier_dropout": 0.3
+}

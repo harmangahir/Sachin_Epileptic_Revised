@@ -1,0 +1,1451 @@
+dataset,outer_fold,split,subject_id,seizure_presence_subject,seizure_burden_ratio,strata,val_split_strategy
+CHB-MIT,1,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,1,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,1,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,1,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,1,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,1,train,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,1,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,1,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,1,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,1,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,1,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,1,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,1,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,1,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,1,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,1,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,1,val,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,1,val,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,1,val,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,1,val,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,1,val,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,1,test,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,1,test,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,1,test,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,2,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,2,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,2,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,2,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,2,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,2,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,2,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,2,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,2,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,2,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,2,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,2,train,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,2,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,2,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,2,train,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,2,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,2,val,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,2,val,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,2,val,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,2,val,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,2,val,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,2,test,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,2,test,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,2,test,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,3,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,3,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,3,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,3,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,3,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,3,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,3,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,3,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,3,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,3,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,3,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,3,train,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,3,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,3,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,3,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,3,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,3,val,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,3,val,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,3,val,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,3,val,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,3,val,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,3,test,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,3,test,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,3,test,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,4,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,4,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,4,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,4,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,4,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,4,train,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,4,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,4,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,4,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,4,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,4,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,4,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,4,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,4,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,4,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,4,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,4,val,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,4,val,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,4,val,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,4,val,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,4,val,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,4,test,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,4,test,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,4,test,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,5,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,5,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,5,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,5,train,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,5,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,5,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,5,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,5,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,5,train,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,5,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,5,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,5,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,5,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,5,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,5,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,5,train,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,5,train,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,5,val,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,5,val,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,5,val,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,5,val,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,5,val,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,5,test,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,5,test,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,6,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,6,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,6,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,6,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,6,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,6,train,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,6,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,6,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,6,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,6,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,6,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,6,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,6,train,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,6,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,6,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,6,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,6,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,6,val,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,6,val,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,6,val,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,6,val,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,6,val,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,6,test,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,6,test,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,7,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,7,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,7,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,7,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,7,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,7,train,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,7,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,7,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,7,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,7,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,7,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,7,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,7,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,7,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,7,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,7,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,7,train,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,7,val,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,7,val,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,7,val,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,7,val,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,7,val,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,7,test,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,7,test,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,8,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,8,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,8,train,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,8,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,8,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,8,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,8,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,8,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,8,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,8,train,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,8,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,8,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,8,train,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,8,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,8,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,8,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,8,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,8,val,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,8,val,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,8,val,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,8,val,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,8,val,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,8,test,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,8,test,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,9,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,9,train,chb20,1,0.2068965517241379,1_1,combined_strata
+CHB-MIT,9,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,9,train,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,9,train,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,9,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,9,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,9,train,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,9,train,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,9,train,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,9,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,9,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,9,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,9,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,9,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,9,train,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,9,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,9,val,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,9,val,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,9,val,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,9,val,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,9,val,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,9,test,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,9,test,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,10,train,chb04,1,0.0714285714285714,1_0,combined_strata
+CHB-MIT,10,train,chb18,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,10,train,chb23,1,0.3333333333333333,1_2,combined_strata
+CHB-MIT,10,train,chb11,1,0.0857142857142857,1_0,combined_strata
+CHB-MIT,10,train,chb22,1,0.0967741935483871,1_0,combined_strata
+CHB-MIT,10,train,chb02,1,0.0833333333333333,1_0,combined_strata
+CHB-MIT,10,train,chb16,1,0.3157894736842105,1_2,combined_strata
+CHB-MIT,10,train,chb24,1,0.5454545454545454,1_2,combined_strata
+CHB-MIT,10,train,chb06,1,0.3888888888888889,1_2,combined_strata
+CHB-MIT,10,train,chb21,1,0.1212121212121212,1_0,combined_strata
+CHB-MIT,10,train,chb13,1,0.2424242424242424,1_1,combined_strata
+CHB-MIT,10,train,chb03,1,0.1842105263157894,1_1,combined_strata
+CHB-MIT,10,train,chb15,1,0.35,1_2,combined_strata
+CHB-MIT,10,train,chb09,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,10,train,chb01,1,0.1666666666666666,1_1,combined_strata
+CHB-MIT,10,train,chb05,1,0.1282051282051282,1_0,combined_strata
+CHB-MIT,10,train,chb12,1,0.5416666666666666,1_2,combined_strata
+CHB-MIT,10,val,chb08,1,0.25,1_1,combined_strata
+CHB-MIT,10,val,chb14,1,0.2692307692307692,1_2,combined_strata
+CHB-MIT,10,val,chb19,1,0.1,1_0,combined_strata
+CHB-MIT,10,val,chb10,1,0.28,1_2,combined_strata
+CHB-MIT,10,val,chb17,1,0.1428571428571428,1_0,combined_strata
+CHB-MIT,10,test,chb07,1,0.1578947368421052,1_1,combined_strata
+CHB-MIT,10,test,chb20,1,0.2068965517241379,1_1,combined_strata
+Turkish,1,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,1,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,1,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,1,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,1,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,1,val,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,1,val,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,1,val,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,1,val,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,1,val,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,1,test,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,1,test,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,1,test,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,1,test,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,1,test,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,1,test,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,1,test,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,2,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,2,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,2,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,2,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,2,val,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,2,val,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,2,val,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,2,val,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,2,val,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,2,val,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,2,test,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,2,test,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,2,test,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,2,test,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,2,test,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,2,test,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,2,test,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,3,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,3,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,3,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,3,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,3,val,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,3,val,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,3,val,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,3,val,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,3,val,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,3,test,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,3,test,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,3,test,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,3,test,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,3,test,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,3,test,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,3,test,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,4,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,4,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,4,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,4,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,4,val,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,4,val,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,4,val,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,4,val,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,4,val,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,4,val,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,4,val,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,4,val,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,4,val,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,4,val,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,4,test,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,4,test,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,4,test,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,4,test,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,4,test,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,4,test,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,4,test,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,5,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,5,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,5,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,5,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,5,val,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,5,val,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,5,val,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,5,val,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,5,val,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,5,val,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,5,val,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,5,val,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,5,val,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,5,val,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,5,val,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,5,val,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,5,val,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,5,val,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,5,test,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,5,test,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,5,test,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,5,test,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,5,test,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,5,test,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,5,test,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,6,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,6,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,6,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,6,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,6,val,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,6,val,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,6,val,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,6,val,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,6,val,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,6,val,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,6,test,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,6,test,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,6,test,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,6,test,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,6,test,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,6,test,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,6,test,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,7,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,7,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,7,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,7,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,7,val,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,7,val,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,7,val,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,7,val,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,7,val,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,7,val,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,7,test,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,7,test,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,7,test,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,7,test,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,7,test,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,7,test,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,7,test,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,8,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,8,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,8,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,8,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,8,val,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,8,val,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,8,val,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,8,val,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,8,val,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,8,val,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,8,val,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,8,val,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,8,val,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,8,val,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,8,test,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,8,test,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,8,test,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,8,test,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,8,test,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,8,test,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,8,test,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (60),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,9,train,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,9,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,9,train,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,9,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,9,val,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,9,val,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,9,val,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,9,val,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,9,val,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,9,val,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,9,val,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,9,val,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,9,val,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,9,val,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,9,val,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,9,val,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,9,val,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,9,val,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,9,test,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,9,test,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,9,test,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,9,test,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,9,test,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,9,test,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,9,test,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (8),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (6),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (7),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (62),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (3),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (1),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (5),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (11),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (24),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (51),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (54),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (36),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (21),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (4),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (45),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (18),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (34),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (24),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (22),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (30),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (48),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (36),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (48),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (43),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (28),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (56),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (63),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (67),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (11),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (47),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (2),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (6),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (69),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (19),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (44),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (32),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (7),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (35),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (4),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (46),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (29),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (45),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (3),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (58),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (30),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (29),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (16),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (25),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (37),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (10),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (12),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (27),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (70),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (9),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (61),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (15),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (17),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (46),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (31),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (65),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (50),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (41),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (50),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (68),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (59),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (9),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (26),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (39),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (27),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (10),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (35),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (38),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (17),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (5),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (34),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (16),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (44),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (18),1,1.0,1_1,combined_strata
+Turkish,10,train,1_epilepsy (20),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (43),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (57),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (41),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (13),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (1),0,0.0,0_0,combined_strata
+Turkish,10,train,2_normal (49),0,0.0,0_0,combined_strata
+Turkish,10,train,1_epilepsy (19),1,1.0,1_1,combined_strata
+Turkish,10,train,2_normal (55),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (14),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (37),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (52),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (71),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (8),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (23),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (42),1,1.0,1_1,combined_strata
+Turkish,10,val,2_normal (66),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (64),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (2),1,1.0,1_1,combined_strata
+Turkish,10,val,1_epilepsy (13),1,1.0,1_1,combined_strata
+Turkish,10,val,2_normal (31),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (23),1,1.0,1_1,combined_strata
+Turkish,10,val,2_normal (32),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (28),1,1.0,1_1,combined_strata
+Turkish,10,val,1_epilepsy (39),1,1.0,1_1,combined_strata
+Turkish,10,val,2_normal (42),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (22),1,1.0,1_1,combined_strata
+Turkish,10,val,1_epilepsy (33),1,1.0,1_1,combined_strata
+Turkish,10,val,2_normal (38),0,0.0,0_0,combined_strata
+Turkish,10,val,2_normal (21),0,0.0,0_0,combined_strata
+Turkish,10,val,1_epilepsy (40),1,1.0,1_1,combined_strata
+Turkish,10,test,1_epilepsy (12),1,1.0,1_1,combined_strata
+Turkish,10,test,1_epilepsy (14),1,1.0,1_1,combined_strata
+Turkish,10,test,1_epilepsy (25),1,1.0,1_1,combined_strata
+Turkish,10,test,1_epilepsy (26),1,1.0,1_1,combined_strata
+Turkish,10,test,1_epilepsy (49),1,1.0,1_1,combined_strata
+Turkish,10,test,2_normal (15),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (20),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (33),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (40),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (47),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (53),0,0.0,0_0,combined_strata
+Turkish,10,test,2_normal (60),0,0.0,0_0,combined_strata

@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 data/*
+outputs/cache_fold_arrays
 =======
 # Byte-compiled / optimized / DLL files
 __pycache__/
