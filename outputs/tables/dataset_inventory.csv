@@ -1,0 +1,9 @@
+dataset,file_extension,count,total_files
+CHB-MIT,.edf,686,2139
+CHB-MIT,.identifier,1282,2139
+CHB-MIT,.pdf,1,2139
+CHB-MIT,.seizures,141,2139
+CHB-MIT,.txt,25,2139
+CHB-MIT,[no_ext],4,2139
+Turkish,.identifier,121,242
+Turkish,.mat,121,242
