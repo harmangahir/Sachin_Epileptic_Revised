@@ -1,0 +1,3 @@
+model_variant,n_channels,window_samples,trainable_params
+CHB-MIT,18,1024,768865
+Turkish,36,1024,916321
